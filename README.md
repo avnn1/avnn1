@@ -119,19 +119,16 @@ A student-data management project for organizing educational information.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=avnn1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=avnn1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avnn1&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avnn1&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=avnn1&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=avnn1&theme=tokyonight&hide_border=true" width="70%"/>
 
 </div>
+
 
 ---
 
