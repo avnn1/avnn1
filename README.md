@@ -8,13 +8,13 @@ I enjoy turning ideas into useful software — from mobile applications and webs
 
 ## 🧭 About Me
 
-* 📱 Building mobile apps with **Flutter & Dart**
-* 🌐 Developing **web applications**
-* 🗄️ Working with **PHP & MySQL**
-* 🤖 Exploring **IoT & embedded systems**
-* 🎮 Experimenting with **game-related projects**
-* 🧠 Learning by building real projects
-* 🚀 Always trying to make the next project better than the last
+- 📱 Building mobile apps with **Flutter & Dart**
+- 🌐 Developing **web applications**
+- 🗄️ Working with **PHP & MySQL**
+- 🤖 Exploring **IoT & embedded systems**
+- 🎮 Experimenting with **game-related projects**
+- 🧠 Learning by building real projects
+- 🚀 Always trying to make the next project better than the last
 
 ---
 
@@ -22,27 +22,31 @@ I enjoy turning ideas into useful software — from mobile applications and webs
 
 ### 💻 Languages
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 📱 Frameworks & Development
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🤖 IoT & Hardware
+
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 ### 🗄️ Database & Tools
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge\&logo=arduino\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -54,16 +58,17 @@ I enjoy turning ideas into useful software — from mobile applications and webs
 
 ### 🛒 TalkShop
 
-A project built with Dart, focused on creating a modern application experience.
+A modern application project built with Dart and Flutter.
 
 **Tech:** `Dart` `Flutter`
 
 </td>
+
 <td width="50%">
 
 ### 🏢 FasumCare
 
-A website for reporting damaged public facilities and helping organize reports.
+A website for reporting damaged public facilities.
 
 **Tech:** `JavaScript`
 
@@ -75,11 +80,12 @@ A website for reporting damaged public facilities and helping organize reports.
 
 ### 📦 Aplikasi Sewa Barang
 
-A project for managing item rentals and related data.
+An application for managing item rentals and related data.
 
 **Tech:** `Web Development`
 
 </td>
+
 <td width="50%">
 
 ### 🎮 Controller Gamepad
@@ -101,6 +107,7 @@ A simple blog system created as a case-study project.
 **Tech:** `Web Development`
 
 </td>
+
 <td width="50%">
 
 ### 🎓 Pendataan Siswa
@@ -119,16 +126,15 @@ A student-data management project for organizing educational information.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=avnn1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=avnn1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avnn1&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avnn1&layout=compact&theme=tokyonight&hide_border=true" height="180">
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=avnn1&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=avnn1&theme=tokyonight&hide_border=true" width="70%">
 
 </div>
-
 
 ---
 
@@ -136,7 +142,7 @@ A student-data management project for organizing educational information.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=avnn1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=avnn1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6">
 
 </div>
 
@@ -146,7 +152,7 @@ A student-data management project for organizing educational information.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=avnn1&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=avnn1&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true">
 
 </div>
 
@@ -166,7 +172,7 @@ A student-data management project for organizing educational information.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/avnn1)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avnn1)
 
 </div>
 
