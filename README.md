@@ -123,9 +123,9 @@ A student-data management project for organizing educational information.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=avnn1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%">
+<img src="https://github-stats-extended.vercel.app/api?username=avnn1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avnn1&layout=compact&theme=tokyonight&hide_border=true" width="48%">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=avnn1&layout=compact&theme=tokyonight&hide_border=true" width="48%">
 
 <br><br>
 
@@ -139,7 +139,7 @@ A student-data management project for organizing educational information.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=avnn1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6">
+<img src="https://github-profile-trophy-winning.vercel.app/?username=avnn1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6">
 
 </div>
 
