@@ -9,10 +9,10 @@ I enjoy turning ideas into useful software — from mobile applications and webs
 ## 🧭 About Me
 
 - 📱 Building mobile apps with **Flutter & Dart**
-- 🌐 Developing **web applications**
+- 🌐 Developing web applications
 - 🗄️ Working with **PHP & MySQL**
 - 🤖 Exploring **IoT & embedded systems**
-- 🎮 Experimenting with **game-related projects**
+- 🎮 Experimenting with game-related projects
 - 🧠 Learning by building real projects
 - 🚀 Always trying to make the next project better than the last
 
@@ -63,7 +63,6 @@ A modern application project built with Dart and Flutter.
 **Tech:** `Dart` `Flutter`
 
 </td>
-
 <td width="50%">
 
 ### 🏢 FasumCare
@@ -85,7 +84,6 @@ An application for managing item rentals and related data.
 **Tech:** `Web Development`
 
 </td>
-
 <td width="50%">
 
 ### 🎮 Controller Gamepad
@@ -107,7 +105,6 @@ A simple blog system created as a case-study project.
 **Tech:** `Web Development`
 
 </td>
-
 <td width="50%">
 
 ### 🎓 Pendataan Siswa
@@ -126,9 +123,9 @@ A student-data management project for organizing educational information.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=avnn1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180">
+<img src="https://github-readme-stats.vercel.app/api?username=avnn1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avnn1&layout=compact&theme=tokyonight&hide_border=true" height="180">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avnn1&layout=compact&theme=tokyonight&hide_border=true" width="48%">
 
 <br><br>
 
@@ -172,7 +169,9 @@ A student-data management project for organizing educational information.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avnn1)
+<a href="https://github.com/avnn1">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </div>
 
