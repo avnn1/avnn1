@@ -28,4 +28,4 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add trophy.svg
           git diff --cached --quiet || git commit -m "chore: update trophy svg"
-          git push
+          git push origin HEAD:main
