@@ -139,7 +139,7 @@ A student-data management project for organizing educational information.
 
 <div align="center">
 
-<img src="https://github-profile-trophy-winning.vercel.app/?username=avnn1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6">
+<img src="./trophy.svg">
 
 </div>
 
