@@ -2,8 +2,8 @@ name: Generate GitHub Trophy
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # auto-update tiap hari jam 00:00 UTC
-  workflow_dispatch:        # biar bisa dijalanin manual
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -21,7 +21,7 @@ jobs:
           username: avnn1
           file: trophy.svg
           theme: tokyonight
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TROPHY_TOKEN }}
 
       - name: Commit & push kalau ada perubahan
         run: |
